@@ -1,8 +1,8 @@
-<h2 align="center">Olá 👋!  Me chamo Anderson.</h2>
+<h2 align="center">Olá, Me chamo Anderson 👋</h2>
 
 ###
 
-<h2 align="center">Hi there 👋!  I'm Anderson.</h2>
+<h2 align="center">Hi there, I'm Anderson 👋</h2>
 
 ###
 
