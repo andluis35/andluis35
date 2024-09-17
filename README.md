@@ -1,13 +1,12 @@
-<h2 align="left">Olá, me chamo Anderson 👋</h2>
-<h2 align="left">Hi there, I'm Anderson 👋</h2>
+<h2 align="center">Olá 👋!  Me chamo Anderson.</h2>
 
 ###
 
-<p align="left">🎓Estudante de Ciência da Computação na Universidade do Estado do Rio de Janeiro (UERJ) & Front-end Developer. Computer Science student at the State University of Rio de Janeiro (UERJ) & Front-end Developer.</p>
+<h2 align="center">Hi there 👋!  I'm Anderson.</h2>
 
 ###
 
-<p align="left"></p>
+<p align="center">🎓Estudante de Ciência da Computação na Universidade do Estado do Rio de Janeiro (UERJ) & Front-end Developer. Computer Science student at the State University of Rio de Janeiro (UERJ) & Front-end Developer.</p>
 
 ###
 
@@ -36,23 +35,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="mailto:and.luis35@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/anderson-luis-663970325" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_and.oliver_?igsh=cWR2MHU0aHZnbWRp&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
-<!--
-**andluis35/andluis35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
