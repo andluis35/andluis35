@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">🎓Estudante de Ciência da Computação na Universidade do Estado do Rio de Janeiro (UERJ) & Desenvolvedor Front-end. Computer Science student at the State University of Rio de Janeiro (UERJ) & Front-end Developer.</p>
+<p align="center">🎓Estudante de Ciência da Computação na Universidade do Estado do Rio de Janeiro (UERJ) & Front-end Developer. Computer Science student at the State University of Rio de Janeiro (UERJ) & Front-end Developer.</p>
 
 ###
 
@@ -38,7 +38,7 @@
   <a href="mailto:and.luis35@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://linkedin.com/in/anderson-luis-663970325" target="_blank">
+  <a href="www.linkedin.com/in/anderson-luis-663970325" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/_and.oliver_?igsh=cWR2MHU0aHZnbWRp&utm_source=qr" target="_blank">
