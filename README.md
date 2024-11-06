@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">🎓Estudante de Ciência da Computação na Universidade do Estado do Rio de Janeiro (UERJ) & Desenvolvedor Front-end. Computer Science student at the State University of Rio de Janeiro (UERJ) & Front-end Developer.</p>
+<p align="center">🎓 Estudante de Ciência da Computação na Universidade do Estado do Rio de Janeiro (UERJ) & Desenvolvedor Front-end. Computer Science student at the State University of Rio de Janeiro (UERJ) & Front-end Developer.</p>
 
 ###
 <div align="center">
